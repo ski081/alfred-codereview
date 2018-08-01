@@ -1,3 +1,3 @@
 # Code Review Alfred Workflow
 
-ALfred workflow to go along with blog post on http://markstruzinski.com
+ALfred workflow to go along with [blog post](http://markstruzinski.com/2018/07/alfred-diffs-with-kaleidoscope/) on http://markstruzinski.com
